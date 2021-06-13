@@ -1,3 +1,5 @@
+//PLEASE SHARE HASHES AFTER FIND SOME, OR TIP TO 0x0ee6c3646ed7ddc6b3c1a57482623afac9666282
+
 global.fetch = require("node-fetch");
 const crypto = require('crypto');
 const Web3 = require("web3");
